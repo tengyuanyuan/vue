@@ -39,7 +39,6 @@
 <style scoped>
 .app-container{
   padding-top: 40px;
-  text-align: center;
 	overflow-x: hidden;
 
 }
